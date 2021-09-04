@@ -1,0 +1,8 @@
+V1.01
+
+Decreased Olexa's energy power cost to 1 and increased starting chips. The chips compensate for the assumed early staff upgrade,
+and the energy power cost makes for a more balanced power later in the game.
+
+Red Hood now properly requires Red Cards, and has had its Block multiplier increased from 1 to 1.5. This should make it more appropriately balanced with cooldown 2 / fortify.
+
+Typos fixed in Red Hood and Character 4's energy power.
