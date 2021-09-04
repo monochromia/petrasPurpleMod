@@ -57,3 +57,5 @@ To remove all mods, run modUnloader.py. This will restore the game to an unmodde
 
 NOTE: Mod developer commentary can be found in the mod deve commentary folder. This does not affect game function and should not be placed in the mods folder.
 Said commentary is included to provide bonus information about the mod behind-the-scenes, and is otherwise entirely ignorable.
+
+Aug 26 21 - Sep 3 21
