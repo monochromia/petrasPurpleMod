@@ -1,0 +1,16 @@
+NOTE: (You can use the commands `selecthero olexa` or `selecthero petrasPurpleHero1` to select Olexa from the character select screen)
+
+Olexa's kit is the most vanilla of the bunch. I wanted Olexa to have a mage-like feel to his character, and so gave him the staff of perfection, 
+his trademark blue cloak, and a scroll of magic mapping.
+
+The problem with those three items alone is that a level 1 staff of perfection deals practically no damage, 
+and I'd have to recreate the staff of perfection if I wanted to give it at level two as starting equipment.
+
+So, I decided to solve the problem indirectly, by adding a bottled blacksmith to his lineup.
+
+When designing the energy power, I wanted to make a 2 cost power that felt somewhat magicky, since at the time the rest of my energy powers all cost 3 or more.
+
+On browsing the item list, I was inspired by the Shockstone family of items, and here we are now.
+
+Originally, I was planning to give Olexa's character twin daggers, one a Hexblade, and one a Dagger of Darkness.
+However, this proved to be extremely uninteresting to play, so I redesigned the kit to what we have now!

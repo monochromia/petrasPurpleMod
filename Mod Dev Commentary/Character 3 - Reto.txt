@@ -1,0 +1,15 @@
+NOTE: (You can use the commands `selecthero reto` or `selecthero petrasPurpleHero3` to select Reto from the character select screen)
+
+When I was designing Retromation's character, Reto, I couldn't help but think about SamCaron55's Ziggurat 2 art and imagining Reto as a pyromancer.
+
+The big theme I wanted to incorporate here was Red Cards, to match Reto's trademark red hoodie.
+
+So I started with Conjure Flame, a very fundamental item. In and of itself, Conjure Flame is simply a sword that does extra damage with hearts, reskinned to Enflame instead of Attack.
+
+Then came Red Hood. Red Hood starts to get more interesting, in that it requires Red Cards but only gains the bonus effect with diamonds specifically.
+
+Where things are intended to become an interesting decision-making process is when Conjure Flame and Red Hood exist together and compete for cards.
+Do you want to use your hearts for Conjure Flame to deal more enflame or use them in Red Hood to throw up block?
+Are those big diamonds worth saving for the fortification bonus, or do you spend them now to apply more Enflame?
+
+Finally, the energy power is a risk-reward power similar to vampire's but focused all on damage. How confident are you in your ability to block? How low are you willing to go to apply more Enflame?

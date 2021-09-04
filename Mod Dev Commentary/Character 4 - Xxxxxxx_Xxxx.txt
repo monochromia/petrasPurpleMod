@@ -1,0 +1,25 @@
+NOTE: (You can use the commands `selecthero taintedreto` or `selecthero petrasPurpleHero4` to select Tainted Reto from the character select screen)
+
+Character 4 is Tainted Retromation, or Tainted Reto for short.
+
+"Tainted Retromation" is a reference to binding of isaac repentance, where there are unlockable alternate versions of characters, called "tainted [characterName]".
+
+Tainted Reto  is focused all around one suit, diamonds. Why? Cause diamonds are red, and Retomations' trademark color is red, and hearts seemed inappropriate for a darker version of Reto.
+
+Reto's Sword is a concept I really liked, in it being a weapon that dealt both attack damage and applied a status. It of course, needs lots of diamonds to fuel it.
+Originally, Reto's Sword was going to be a color-shifted version of the shiny sword of poison, but when shifted to red, the poison ended up looking a whole lot like blood.
+Since I want to keep Poker Quest as child-friendly as possible, I decided to use the basic shiny sword asset color shifted to red instead. The alternate asset is included in this folder, for any interested.
+
+Shineshield is named after a Poker Quest concept, which is that diamond-based items use the prefix "Shiny".
+
+Our last piece of starting equipment is the "Jack of All Games". The name "Jack of All Games" is indeed a riff on the phrase "Jack of all trades".
+This is the item that makes things spicy. If you can manage 4 of a kind, you have all the fuel you can want for your other equipment and energy power.
+This item was a late addition to the kit. To make things more fun for players I was considering adding a Pack of Diamonds to the loadout to make things more fun to play.
+While considering how exactly to implement that, I remembered Retromation's "Let's Try" series (a personal favorite), and thus this item was born.
+
+Tainted Reto's energy power is taken directly from an in game item, "Crystallize". The design process was basically the same as Olexa's discard power, 
+in that I found the crystallize power, thought it was cool, and turned it into a hero power. This power also indirectly acts as extra draw and helps fuel your other equipment.
+
+I designed both Reto characters around Retromation's enjoyment of the Paladin mechanic of multiple items vying over the same suit.
+Tainted Reto originated from first attempt at regular Reto's kit, but there wasn't really a strong theme tying everything together, and there was no trademark Red Hoodie. 
+So, I decided to flavor Tainted Reto instead as Reto gone mad for diamonds. I'm personally very happy with how the character turned out.

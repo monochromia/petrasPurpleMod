@@ -1,0 +1,17 @@
+NOTE: (You can use the commands `selecthero furlexa` or `selecthero petrasPurpleHero2` to select Furlexa from the character select screen)
+
+Character 2 is Furlexa, a character based on silly community in-joke about Olexa being a furry (which he is not actually, as far as I know).
+
+"Tainted Olexa" is a reference to binding of isaac repentance, where there are unlockable alternate versions of characters, called "tainted [characterName]".
+
+The reason I went with Furlexa is that I wanted to add some good, lighthearted humor to the mod.
+However, game-play wise, I think the character is pretty fun!
+
+Our first item is the Throne of Porcelain. This is a base game item I found while browsing the files.
+I had the energy power designed already, and needed an item that provided a good amount of curse, so, given the jokey nature of Furlexa, I had to use the Throne of Porcelain.
+
+Second is "Huggy Wuggy". I knew from the beginning I wanted to give Furlexa an item that charmed, and when I found the "embrace" art in the game files, I had to run from there.
+
+Finally is another base game item "A Gift", though this one might only be encountered during certain seasonal events.
+A gift gives random items, and as I was designing Furlexa's kit, I thought to how one of Olexa's favorite isaac characters is Eden, who starts with random items.
+Here's to good RNG!
