@@ -1,7 +1,13 @@
 V1.02
 
+Hero 5 lays unfinished in the files.
+
+Hero 6 has been added.
+
 Reto's energy power has been reworked. It now costs 2 down from 6 and enflames a random enemy item for 50% or your missing HP.
 Energy per step has been reduced to 2 to compensate.
+
+Lots of minor text changes.
 
 V1.01
 
