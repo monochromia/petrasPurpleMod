@@ -1,0 +1,19 @@
+NOTE: (You can use the commands selecthero wheel or selecthero petrasPurpleHero6 to select The Wheel of Fortune from the character select screen.)
+
+The Wheel of Fortune was inspired when I thought about the modding API's limit on how many equipment could be given to the player.
+
+I considered what the design for a character who had a unique equipment for every card would look like (like Scathach from Dicey Dungeons).
+
+Thus, the wheel of fortune was borne.
+
+The alliterative naming scheme was a fun idea, and made it helped play into the theme of a slot machine/wheel based chance game.
+
+I decided that I wanted to represent a different damage type for each equipment, and knew poison had to be at the top as it feels the most valuable.
+
+From there, things flowed smoothly. The only art that really made sense was the portraits of kings and queens and jacks, so I used those, and even managed one of each suit.
+(Though I couldn't find anything besides Sergent Toad to represent the Ace of Clubs, even though he's used as a Jack of Clubs in the deck...)
+
+The character was a bit fragile, so I added in the 10's Tower Shield, and after some feedback from the devs, I made the items weightless and reduced the wheel's item slots to 0.
+
+And thus: The Wheel of Fortune.
+

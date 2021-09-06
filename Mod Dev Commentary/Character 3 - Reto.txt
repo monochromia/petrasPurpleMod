@@ -1,4 +1,4 @@
-NOTE: (You can use the commands `selecthero reto` or `selecthero petrasPurpleHero3` to select Reto from the character select screen)
+NOTE: (You can use the commands selecthero reto or selecthero petrasPurpleHero3 to select Reto from the character select screen)
 
 When I was designing Retromation's character, Reto, I couldn't help but think about SamCaron55's Ziggurat 2 art and imagining Reto as a pyromancer.
 

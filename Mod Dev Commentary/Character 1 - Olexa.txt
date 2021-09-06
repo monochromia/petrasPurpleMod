@@ -1,4 +1,4 @@
-NOTE: (You can use the commands `selecthero olexa` or `selecthero petrasPurpleHero1` to select Olexa from the character select screen)
+NOTE: (You can use the commands selecthero olexa or selecthero petrasPurpleHero1 to select Olexa from the character select screen)
 
 Olexa's kit is the most vanilla of the bunch. I wanted Olexa to have a mage-like feel to his character, and so gave him the staff of perfection, 
 his trademark blue cloak, and a scroll of magic mapping.

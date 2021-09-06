@@ -1,11 +1,12 @@
 **IMPORTANT** Installing mods through this method requires Python. Install it for free at python.org
 
-**IMPORTANT**: When the mod is installed, type in one of the following at the character select screen to choose one of four modded heros (backtick [`] opens and closes the dev console):
+**IMPORTANT**: When the mod is installed, type in one of the following at the character select screen to choose one of four modded heros (using backtick [`] to open and close the dev console, and enter to submit the command):
 
-`selecthero olexa`
-`selecthero petrasPurpleHero2` (character name hidden to preserve genuine reactions)
-`selecthero reto`
-`selecthero petrasPurpleHero4` (character name hidden to preserve genuine reactions)
+selecthero olexa
+selecthero petrasPurpleHero2 (character name hidden to preserve genuine reaction)
+selecthero reto
+selecthero petrasPurpleHero4 (character name hidden to preserve genuine reaction)
+selecthero petrasPurpleHero6 (character name hidden to preserve genuine reactions)
 
 Installation Guide is copied and pasted from the Mods readme in %APPDATA%/Roaming/Playsaurus/PokerQuest/mods
 =====

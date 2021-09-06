@@ -1,4 +1,4 @@
-NOTE: (You can use the commands `selecthero furlexa` or `selecthero petrasPurpleHero2` to select Furlexa from the character select screen)
+NOTE: (You can use the commands selecthero furlexa or selecthero petrasPurpleHero2 to select Furlexa from the character select screen)
 
 Character 2 is Furlexa, a character based on silly community in-joke about Olexa being a furry (which he is not actually, as far as I know).
 

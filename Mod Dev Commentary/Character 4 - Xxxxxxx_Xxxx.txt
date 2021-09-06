@@ -1,4 +1,4 @@
-NOTE: (You can use the commands `selecthero taintedreto` or `selecthero petrasPurpleHero4` to select Tainted Reto from the character select screen)
+NOTE: (You can use the commands selecthero taintedreto or selecthero petrasPurpleHero4 to select Tainted Reto from the character select screen)
 
 Character 4 is Tainted Retromation, or Tainted Reto for short.
 

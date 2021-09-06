@@ -1,20 +1,25 @@
 NOTE: Commands to select each character can be found in the README (for spoiler free versions), or in each character's commentary document (for shorter versions that are easier to type).
 
+Individual characters' commentary documents contain spoilers for that character.
+
+The README explains how to enter these commands into the dev console, which is required to play these modded characters.
+
 Heya. In this folder is some mod dev commentary by me, Petra.
 
 If you want to know my thoughts on some particular aspect of this mod, or have something to read about this mod these commentaries should have you covered.
 
 These focus not so much on character strategies, but more on the thought process behind each topic covered. 
 
-Recommended play order is Hero 2 after Olexa, and Hero 4 after Reto.
+Recommended play order is Olexa, Reto, and Hero 6 in any order. Hero 2 should be played after Olexa. 
+Hero 4 should be played after Reto. Hero 5 is currently unfinished.
 
 -------------------------------------------------------------------------------------
 
-Petra's Purple Mod is a mod that adds 4 new heroes and 7 new equipment to PokerQuest.
+Petra's Purple Mod is a mod that adds 5 new heroes and 12 new equipment to PokerQuest.
 
 Why is it called Petra's Purple Mod? Because two of the heroes are Olexa and Retromation, whose signature colors are blue and red respectively.
 
-Who are the other two heroes? I leave this as a surprise for the sake of genuine reactions when recording.
+Who are the other heroes? I leave this as a surprise for the sake of genuine reactions when recording.
 
 Hero portrait assets are all used with permission from the original artists from the Olexa and Retromation communities.
 
@@ -25,5 +30,5 @@ I was inspired to make this mod by the Olexa community, after seeing the Pyramid
 However, Retromation originally did introduce me to PokerQuest, and when Olexa was busy for the forseeable future during the mod dev process, 
 I decided to see if Retromation was interested in a character mod for himself, and he was! And that brings us to today.
 
-Special thanks to the PokerQuest Discord, in particular Fragsworth, and the rest of the PokerQuest dev team, who helped get me started on modding PokerQuest, 
+Special thanks to the PokerQuest Discord, in particular Fragsworth and the rest of the PokerQuest dev team, who helped get me started on modding PokerQuest, 
 answered a lot of my questions, and updated the game's mod support to help make this mod happen.

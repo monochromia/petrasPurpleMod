@@ -1,3 +1,8 @@
+V1.02
+
+Reto's energy power has been reworked. It now costs 2 down from 6 and enflames a random enemy item for 50% or your missing HP.
+Energy per step has been reduced to 2 to compensate.
+
 V1.01
 
 Decreased Olexa's energy power cost to 1 and increased starting chips. The chips compensate for the assumed early staff upgrade,
