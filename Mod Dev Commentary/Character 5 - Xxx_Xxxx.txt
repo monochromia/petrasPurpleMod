@@ -1,0 +1,13 @@
+NOTE: (You can use the commands selecthero fool or selecthero petrasPurpleHero5 to select The Fool from the character select screen)
+
+I was inspired to create The Fool when I imagined a character who focused specifically on using Deuces.
+
+The most fitting PokerQuest character for this theme seemed like the Fool to me, and it got me thinking about an entire lineup of tarot themed characters (see hero 6, for example).
+
+The original 3rd equipment in the kit was deuces wild, but there was never any reason to use it, so I decided to replace it with the very silly Boots of Escape.
+
+I wanted to make the hero power the same as Demoter, select a card and draw a card from the deck with a rank one lower than the inserted card, but the API does not currently support that.
+
+The Fool is probably the most overtuned Hero in this mod, and honestly, I'm fine with that. I tested a version of the fool with 22 max hp, and it was miserable.
+and while I could certainly take other measures to balance out The Fool's kit, I think it's fine to have a silly, funny character who rides high on the power curve.
+Sometimes you just want to turn your brain off and see beeg numbers and that's something that The Fool excels at.
