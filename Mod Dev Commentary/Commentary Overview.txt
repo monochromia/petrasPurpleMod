@@ -10,12 +10,12 @@ If you want to know my thoughts on some particular aspect of this mod, or have s
 
 These focus not so much on character strategies, but more on the thought process behind each topic covered. 
 
-Recommended play order is Olexa, Reto, and Hero 6 in any order. Hero 2 should be played after Olexa. 
-Hero 4 should be played after Reto. Hero 5 is currently unfinished.
+Recommended play order is Olexa, Reto, Hero 5 and Hero 6 in any order. Hero 2 should be played after Olexa. 
+Hero 4 should be played after Reto.
 
 -------------------------------------------------------------------------------------
 
-Petra's Purple Mod is a mod that adds 5 new heroes and 12 new equipment to PokerQuest.
+Petra's Purple Mod is a mod that adds 6 new heroes and 14 new equipment to PokerQuest.
 
 Why is it called Petra's Purple Mod? Because two of the heroes are Olexa and Retromation, whose signature colors are blue and red respectively.
 
