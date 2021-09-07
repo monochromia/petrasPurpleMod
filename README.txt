@@ -6,7 +6,8 @@ selecthero olexa
 selecthero petrasPurpleHero2 (character name hidden to preserve genuine reaction)
 selecthero reto
 selecthero petrasPurpleHero4 (character name hidden to preserve genuine reaction)
-selecthero petrasPurpleHero6 (character name hidden to preserve genuine reactions)
+selecthero petrasPurpleHero5 (character name hidden to preserve genuine reaction)
+selecthero petrasPurpleHero6 (character name hidden to preserve genuine reaction)
 
 Installation Guide is copied and pasted from the Mods readme in %APPDATA%/Roaming/Playsaurus/PokerQuest/mods
 =====

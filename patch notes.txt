@@ -1,3 +1,11 @@
+V1.03
+
+All custom equipment purchase and upgrade costs adjusted. I forgot to really look at these earlier. Woops!
+
+Reto's energy per step has been reduced to 2 from 3.
+
+Hero 5 finished.
+
 V1.02
 
 Hero 5 lays unfinished in the files.
@@ -5,7 +13,6 @@ Hero 5 lays unfinished in the files.
 Hero 6 has been added.
 
 Reto's energy power has been reworked. It now costs 2 down from 6 and enflames a random enemy item for 50% or your missing HP.
-Energy per step has been reduced to 2 to compensate.
 
 Lots of minor text changes.
 
