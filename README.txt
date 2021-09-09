@@ -14,7 +14,7 @@ Installation Guide is copied and pasted from the Mods readme in %APPDATA%/Roamin
 
 BASIC INSTALLATION:
 
-1) Place a mod folder in %APPDATA%/Playsaurus/PokerQuest/mods (DO NOT PLACE MOD IN STEAMAPPS MOD FOLDER, ONLY APPDATA -Petra)
+1) Place a mod folder in %APPDATA%/Playsaurus/PokerQuest/mods (The mod folder is the folder named "petrasPurpleMod". DO NOT PLACE MOD IN STEAMAPPS MOD FOLDER, ONLY APPDATA -Petra)
 
 	PokerQuest/mods/testMod
 
